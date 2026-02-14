@@ -12,7 +12,7 @@ The core objective is to minimize False Negatives (predicting "Benign" when it i
 Key Features
 * Data Preprocessing:
 
-* * Handled missing values and outliers.
+* * Handled missing values.
 * * Feature Scaling: Applied StandardScaler to normalize numerical features for optimal model performance.
 * * Label Encoding: Converted target labels (M/B) into binary format (1/0) using LabelEncoder.
 
